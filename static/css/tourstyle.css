@@ -1,0 +1,206 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.head {
+	height: 600px;
+	background-image: url(http://3.bp.blogspot.com/--GUS5pkFRj8/T7JiT2GwnfI/AAAAAAAAAtk/YgjkxNIWyYc/s1600/11.jpg);
+	margin-bottom: 50px;
+
+}
+h1 {
+	  color: #fff;
+	  padding: 30px;
+	  text-align: center;
+	  position: relative;
+	  top: 50%;
+	  background-color:  linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8));
+    	}
+    	/*----------Europe--------*/
+#content1
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 500px;
+	width: 100%;
+	background-image: url(https://images.pexels.com/photos/269790/pexels-photo-269790.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+} 
+#content1 h2
+{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#europe
+{
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+  
+   height: 90%;
+
+}  	
+.country{
+	margin: 5px;
+	height: 90%;
+
+	width: 22.5%;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+img {
+	height: 90%;
+	width: 93%;
+	margin: 2%;
+	text-align:center;
+}
+h3 {
+	margin: 3px;
+	text-align: center;
+}
+/*-----------------Asia--------*/
+#content2
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 500px;
+	width: 100%;
+	background-image: url(https://images.pexels.com/photos/21014/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+} 
+#content2 h2
+{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#asia
+{
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+  
+   height: 90%;
+
+}  	
+.country{
+	margin: 5px;
+	height: 90%;
+
+	width: 22.5%;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+img {
+	height: 90%;
+	width: 93%;
+	margin: 2%;
+	text-align:center;
+}
+h3 {
+	margin: 3px;
+	text-align: center;
+}
+/*------------Australia------*/
+#content3
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 500px;
+	width: 100%;
+	background-image: url(https://images.pexels.com/photos/68704/pexels-photo-68704.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+} 
+#content3 h2
+{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#Australia
+{
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+  
+   height: 90%;
+
+}  	
+.country{
+	margin: 5px;
+	height: 90%;
+
+	width: 22.5%;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+img {
+	height: 90%;
+	width: 93%;
+	margin: 2%;
+	text-align:center;
+}
+h3 {
+	margin: 3px;
+	text-align: center;
+}
+	/*----------------------------America--------------*/
+
+
+
+#content4
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	height: 500px;
+	width: 100%;
+	background-image: url(https://images.pexels.com/photos/2749090/pexels-photo-2749090.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+
+} 
+
+
+#content4 h2
+{
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#america
+{
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+  
+   height: 90%;
+
+}  	
+.country{
+	margin: 5px;
+	height: 90%;
+
+	width: 22.5%;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+img {
+	height: 90%;
+	width: 93%;
+	margin: 2%;
+	text-align:center;
+}
+h3 {
+	margin: 3px;
+	text-align: center;
